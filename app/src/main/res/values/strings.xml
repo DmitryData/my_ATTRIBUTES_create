@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">my_ATTRIBUTES_create</string>
+    <string name="swap_color">swap_color</string>
 </resources>

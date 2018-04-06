@@ -23,10 +23,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:square_size="@dimen/square_size"
-            app:square_color="@color/squareColor"
+            app:square_color="@color/squareColor" />
 
-
-            />
     </RelativeLayout>
 
 
